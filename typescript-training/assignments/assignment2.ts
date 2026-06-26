@@ -1,7 +1,7 @@
 
-//Program to check whether user is eligible to get the loan or not
+// Program to check whether user is eligible to get the loan or not
 
-// When Income and debtToIncomeRatio are considered as number
+// * When Income and debtToIncomeRatio are considered as number
 
 customerInformation(720,55000.0,true,35,"John Doe");
 
@@ -39,7 +39,7 @@ else if (creditScore>=650 && creditScore<=750)
 
 } 
  
-// When Income and debtToIncomeRatio are considered as string
+// * When Income and debtToIncomeRatio are considered as string
 
 /* customerInformation(720,"$55,000.0",true,"35%","John Doe");
 
